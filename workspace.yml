@@ -1,0 +1,14 @@
+opencollection: 1.0.0
+info:
+  name: "workspc test collection"
+  type: workspace
+
+collections:
+  - name: "Untitled Collection - 2"
+    path: "collections/Untitled Collection - 2"
+
+specs:
+  - name: "===="
+    path: "apispec/====.yaml"
+
+docs: ''
