@@ -11,4 +11,4 @@ specs:
   - name: "===="
     path: "apispec/====.yaml"
 
-docs: ''
+docs: "<br/>"
