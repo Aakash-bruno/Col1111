@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: google.comm
+  url: google.com
   auth: inherit
 
 runtime:
