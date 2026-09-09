@@ -6,6 +6,8 @@ info:
 collections:
   - name: "Untitled Collection - 2"
     path: "collections/Untitled Collection - 2"
+  - name: "pull request"
+    path: "collections/pull request"
 
 specs:
   - name: "===="
