@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: ddddd
+  url: dddd
   auth: inherit
 
 settings:
