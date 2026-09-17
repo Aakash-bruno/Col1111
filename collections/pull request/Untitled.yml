@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: www.facebook.com
+  url: www.facebook.comm
   auth: inherit
 
 settings:
