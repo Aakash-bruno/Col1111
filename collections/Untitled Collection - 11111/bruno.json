@@ -1,0 +1,10 @@
+{
+  "name": "Untitled Collection - 11111",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git",
+    "rr"
+  ],
+  "version": "1"
+}

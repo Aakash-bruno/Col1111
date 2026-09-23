@@ -8,25 +8,6 @@ http:
   url: google.com
   auth: inherit
 
-runtime:
-  scripts:
-    - type: after-response
-      code: |-
-        const rowData = res
-
-        const columnDefinitions = [
-          { field: "name", filter: true, floatingFilter: true },
-          { field: "age", filter: true, floatingFilter: true },
-          { field: "email", filter: true, floatingFilter: true },
-          { field: "city", filter: true, floatingFilter: true }
-        ];
-
-        bru.visualize('table', {
-          name: 'table',
-          provider: 'ag-grid',
-          props: { rowData, columnDefinitions }
-        });
-
 settings:
   encodeUrl: true
   timeout: 0
